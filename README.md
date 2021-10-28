@@ -1,0 +1,2 @@
+- 👋 Hi, Je suis Katsuyo
+- 📀 Je code spétialement en JS
