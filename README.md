@@ -1,4 +1,4 @@
-<a src="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0165.gif" border="0" alt="animated-line-image-0165" /></a>
+<a src="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://media.discordapp.net/attachments/905556039259267094/905596721306959972/rainbow-115.gif" border="0" alt="animated-line-image-0165" /></a>
 
 # A propos de moi :
 ### Salut je m'appelle enzo ! 
@@ -19,4 +19,4 @@
 
 [![Les Stats GitHub de Katsuyo ](https://github-readme-stats.vercel.app/api?username=Katsuyooo&show_icons=true&theme=tokyonight)](https://github.com/hirowzz/github-readme-stats)
 
-<a src="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0165.gif" border="0" alt="animated-line-image-0165" /></a>
+<a src="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://media.discordapp.net/attachments/905556039259267094/905596721306959972/rainbow-115.gif" border="0" alt="animated-line-image-0165" /></a>
