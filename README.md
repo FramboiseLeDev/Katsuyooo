@@ -5,7 +5,7 @@
 ### Je débute en temps que développeur en Javascript ! 
 
 # Réseaux :
-   <a href="https://twitter.com/">                                               
+   <a href="https://twitter.com/katzu_fr">                                               
       <img alt="Twitter" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"       
       width="64" height="64">                                                            
    </a>
