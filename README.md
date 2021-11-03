@@ -10,7 +10,7 @@
       width="64" height="64">                                                            
    </a>
    
-   <a href="https://discords.com/bio/p/Katsuyo">                                               
+   <a href="https://discords.com/bio/p/KatDev">                                               
       <img alt="Discord" src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png"       
       width="64" height="64">                                                            
    </a>
